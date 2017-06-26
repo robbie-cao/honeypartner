@@ -8,3 +8,5 @@
 - https://www.1688.com/gongsi/-D2BABEA7C4A3D7E9.html
 - https://s.taobao.com/search?initiative_id=tbindexz_20170626&ie=utf8&spm=a21bo.50862.201856-taobao-item.2&sourceId=tb.index&search_type=item&ssid=s5-e&commend=all&imgfile=&q=lcd%E6%A8%A1%E7%BB%84&suggest=0_1&_input_charset=utf-8&wq=lcdmozu&suggest_query=lcdmozu&source=suggest
 - http://www.ebay.com/bhp/led-display-module
+- https://www.ebay.com/b/LCD-Display-Modules/181887/bn_7748099
+- https://www.digikey.com/products/en/optoelectronics/display-modules-lcd-oled-graphic/107
