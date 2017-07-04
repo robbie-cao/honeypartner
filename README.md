@@ -10,3 +10,20 @@
 - http://www.ebay.com/bhp/led-display-module
 - https://www.ebay.com/b/LCD-Display-Modules/181887/bn_7748099
 - https://www.digikey.com/products/en/optoelectronics/display-modules-lcd-oled-graphic/107
+
+
+## Super Sensor
+
+- http://www.alibaba.com/countrysearch/CN/super-sensor.html
+- http://www.atmel.com/products/drivers-and-sensors/sensor-hub/sensor-hub-partners.aspx
+- http://www.quicklogic.com/solutions/catalog-cssps/always-on-context-aware-sensor-hub/
+- https://www.ecnmag.com/article/2014/01/hot-tech-ces-sensor-hub-solutions
+- http://www.nxp.com/products/sensors/intelligent-sensors-and-sensor-hubs:SNSNGPLTFRM
+- http://www.nxp.com/docs/en/application-note/AN11703.pdf
+- http://www.esame-conference.org/wp-content/uploads/2015/03/Matthes_full-paper-same-2015-Intel-Integrated-Sensor-Solution-final.pdf
+- https://shop.valarm.net/collections/valarm-compatible-connector-hardware
+- https://www.avnet.com/wps/wcm/connect/onesite/35afd948-29ed-45f3-b07b-8601f15f1c13/Maren+-+High+Performance+%26+Low+Power+Sensor+Hub+Ready+for+IoT.pdf?MOD=AJPERES&CVID=lI1Hmey&CVID=lI1Hmey
+- http://www.microchip.com/promo/sensor-hub
+- https://opensensorhub.org/home/welcome/explore/
+- http://www.computerworld.com/article/3197685/internet-of-things/google-a-i-and-the-rise-of-the-super-sensor.html
+- https://shop.valarm.net/collections/valarm-compatible-connector-hardware/products/gsm-3g-sensor-hub-for-industrial-iot
