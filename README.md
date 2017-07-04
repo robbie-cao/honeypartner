@@ -27,3 +27,13 @@
 - https://opensensorhub.org/home/welcome/explore/
 - http://www.computerworld.com/article/3197685/internet-of-things/google-a-i-and-the-rise-of-the-super-sensor.html
 - https://shop.valarm.net/collections/valarm-compatible-connector-hardware/products/gsm-3g-sensor-hub-for-industrial-iot
+
+
+## VR/AR
+
+- http://augmented-reality.cioreview.com/vendors/most-promising-augmented-reality-technology-solution-providers-2016.html
+- https://www.zhihu.com/question/28446842
+- http://ivr.baidu.com/original/s575550bf964f.html
+- http://newseed.pedaily.cn/201511/201511191322464.shtml
+- http://www.toutiao.com/i6368249610103685634/
+- http://www.sohu.com/a/113915901_399945
