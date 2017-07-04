@@ -37,6 +37,8 @@
 - http://newseed.pedaily.cn/201511/201511191322464.shtml
 - http://www.toutiao.com/i6368249610103685634/
 - http://www.sohu.com/a/113915901_399945
+- http://mp.weixin.qq.com/s?__biz=MzI0NjE4NjUxMA==&mid=2649672436&idx=1&sn=112927996a06e88d6539fcb5db5bd7fc&scene=21#wechat_redirect
+
 
 ![](https://pic3.zhimg.com/6627aaaf51bb667fe506930864aa1d7e_b.png)
 
